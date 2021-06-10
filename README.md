@@ -25,7 +25,7 @@
 
 
 <p align="center">
-    <img src="https://docs.google.com/uc?id=1YUfQR4D295rqYke3AMqF2MbHqGsRd5T5" width="100%" height="100%" Title="Receitas x Custos x Margem">
+    <img src="https://docs.google.com/uc?id=1YUfQR4D295rqYke3AMqF2MbHqGsRd5T5" width="100%" height="100%" Title="Análise de Funcionários">
 </p>
 
 * *Clique na imagem para ver em tela cheia*
@@ -42,7 +42,7 @@ aplique, irá refletir em todo o painel da mesma forma que clicando em qualquer 
 </b>
 
 <p align="center">
-    <img src="https://docs.google.com/uc?id=1hmcyfa96YdAbwtV4kRICRGSxF5HIfQ3t" width="70%" height="70%" Title="Detalhes"></img>
+    <img src="https://docs.google.com/uc?id=1hmcyfa96YdAbwtV4kRICRGSxF5HIfQ3t" width="70%" height="70%" Title="Painel de Filtros"></img>
 </p>
 
 * *Clique na imagem para ver em tela cheia*
@@ -60,7 +60,30 @@ serem aplicados.
 </b>
 
 <p align="center">
-    <img src="https://docs.google.com/uc?id=149CTlHs04CsqY0UMVAUYYIcmb6dJtYUS" width="70%" height="70%" Title="Árvore Decomposição"></img>
+    <img src="https://docs.google.com/uc?id=149CTlHs04CsqY0UMVAUYYIcmb6dJtYUS" width="70%" height="70%" Title="Tela Flutuante"></img>
+</p>
+
+* *Clique na imagem para ver em tela cheia*
+<br />
+<br />
+
+ - #### Na segunda página, são apresentados os dados financeiros realcionados as equipes:
+1. Gráfico com o valor total de salários por área;
+2. Gráfico com o valor total de encargos pagos referentes aos salários por área;
+3. Gráfico com o valor total de benefícios pagos por área;
+4. Gráfico com o valor total de horas extras pagas por nível hierárquico;
+5. Gráfico com a média salarial paga por nível hierárquico;
+6. Gráfico com o quantitativo de funcionários contratados por mês.
+
+<br />
+<b>
+<p align="center">
+    Página com Análise Financeira por Área e Nível
+</p>
+</b>
+
+<p align="center">
+    <img src="https://docs.google.com/uc?id=1tR7MX_Xe61Q_Uilr-nHcIsUGOz4AQWv-" width="100%" height="100%" Title="Análise Financeira">
 </p>
 
 * *Clique na imagem para ver em tela cheia*
