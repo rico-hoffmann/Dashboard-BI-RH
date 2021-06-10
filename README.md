@@ -9,8 +9,8 @@
 ### Os objetivos da análise de BI nesse projeto são para obter os seguintes conhecimentos e indicadores:
 
 - #### Nessa primeira página, são apresentados os indicadores relacionados ã gestão da equipe:
-1. Gráficos com quantitativo dos funcinários ativos por nível hierárquico;
-2. Gráfico com quantitativo em dias das férias acululadas por nível hierárquico;
+1. Gráficos com quantitativo dos funcionários ativos por nível hierárquico;
+2. Gráfico com quantitativo em dias das férias acumuladas por nível hierárquico;
 3. Gráfico com quantitativo de funcionários ativos por regime de contratação;
 4. Gráfico com tempo médio de empresa em anos por área;
 5. Gráfico com o total de horas extras por área;
@@ -31,8 +31,8 @@
 * *Clique na imagem para ver em tela cheia*
 <br />
 
-Ainda na primeira tela, podemos acessar o painel de filtros clicando no icone de filtro na parte superior esquerda, onde qualquer filtro que se
-aplique, irá refeltir em todo o painel da mesma forma que clicando em qualquer um dos gráficos também irá filtrar todo o painel.
+Ainda na primeira tela, podemos acessar o painel de filtros clicando no ícone de filtro na parte superior esquerda acima do painel em destaque, onde qualquer filtro que se
+aplique, irá refletir em todo o painel da mesma forma que clicando em qualquer um dos gráficos também irá filtrar todo o painel.
 
 <br />
 <b>
@@ -55,12 +55,12 @@ serem aplicados.
 <br />
 <b>
 <p align="center">
-    Apresentação de Resumo pela Tela FLutuante na Análise de Funcionários
+    Apresentação de Resumo pela Tela Flutuante na Análise de Funcionários
 </p>
 </b>
 
 <p align="center">
-    <img src="https://docs.google.com/uc?id=149CTlHs04CsqY0UMVAUYYIcmb6dJtYUS" width="75%" height="75%" Title="Árvore Decomposição"></img>
+    <img src="https://docs.google.com/uc?id=149CTlHs04CsqY0UMVAUYYIcmb6dJtYUS" width="70%" height="70%" Title="Árvore Decomposição"></img>
 </p>
 
 * *Clique na imagem para ver em tela cheia*
