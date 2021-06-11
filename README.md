@@ -119,4 +119,4 @@ Em relação à análise financeira dos funcionários:
 3. Os diretores, são o que tem a maior média salarial;
 4. Em geral, no 1º trimestre, tem um maior volume de contratações e no 4º trimestre, esse volume tem uma pequena queda.
 
-## Se gostou e que conferir como funciona, acesse o [Dashboard RH](https://bit.ly/dashboard_rh_jrsolucoes) e navegue por todas as telas, clicando nos gráficos para filtrar o painel e conferir toda a sua interatividade.
+## Se gostou e quer conferir como funciona, acesse o [Dashboard RH](https://bit.ly/dashboard_rh_jrsolucoes) e navegue por todas as telas, clicando nos gráficos para filtrar o painel e conferir toda a sua interatividade.
