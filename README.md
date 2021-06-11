@@ -93,7 +93,7 @@ Para navegar para a próxima página, basta clicar no ícone no canto superior e
 * *Clique na imagem para ver em tela cheia*
 <br />
 
->Da mesma forma que na tela da análise de funcionários, aqui na segunda, também temos o mesmo filtro que pode ser acessado pelo ícone do 
+Da mesma forma que na tela da análise de funcionários, aqui na segunda, também temos o mesmo filtro que pode ser acessado pelo ícone do 
 filtro na parte superior esquerda do lado do ícone da navegação, que nos leva de volta para a tela da análise de funcionários e também nos 
 gráficos da média salarial por nível e contratações por mês, temos o ícone do megafone, que também apresenta uma janela flutuante com o 
 quantitativo dos funcionários por área.
