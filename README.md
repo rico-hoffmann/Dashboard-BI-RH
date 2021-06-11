@@ -105,7 +105,7 @@ quantitativo dos funcionários por área.
 
 #### Com base nesse dashboard apresentado, podemos observar os seguintes dados e indicadores.
 
-Em relação à análise de funcionários:
+>Em relação à análise de funcionários:
 1. Considerando a quantidade de funcionários, os níveis que têm a maior quantidade, são os estagiários (131 funcionários) e analistas (129 funcionários);
 2. São também eles, quem mais têm férias acumuladas;
 3. Essa empresa, tende a contratar mais funcionários terceirizados, (hoje está meio a meio com os efetivos);
@@ -113,7 +113,7 @@ Em relação à análise de funcionários:
 5. A área que tem mais horas extra, é a área administrativa;
 6. A área com o maior turnover, é a área financeira.
 
-Em relação à análise financeira dos funcionários:
+>Em relação à análise financeira dos funcionários:
 1. A área com o maior salário, é a área comercial. Consequentemente, é a área que mais paga benefícios e encargos;
 2. Os Analistas, são os que mais receberam horas extras;
 3. Os diretores, são o que tem a maior média salarial;
