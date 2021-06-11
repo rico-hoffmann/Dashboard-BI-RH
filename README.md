@@ -93,7 +93,7 @@ Para navegar para a próxima página, basta clicar no ícone no canto superior e
 * *Clique na imagem para ver em tela cheia*
 <br />
 
-Da mesma forma que na tela da análise de funcionários, aqui na segunda, também temos o mesmo filtro que pode ser acessado pelo ícone do 
+>Da mesma forma que na tela da análise de funcionários, aqui na segunda, também temos o mesmo filtro que pode ser acessado pelo ícone do 
 filtro na parte superior esquerda do lado do ícone da navegação, que nos leva de volta para a tela da análise de funcionários e também nos 
 gráficos da média salarial por nível e contratações por mês, temos o ícone do megafone, que também apresenta uma janela flutuante com o 
 quantitativo dos funcionários por área.
@@ -119,4 +119,4 @@ Em relação à análise financeira dos funcionários:
 3. Os diretores, são o que tem a maior média salarial;
 4. Em geral, no 1º trimestre, tem um maior volume de contratações e no 4º trimestre, esse volume tem uma pequena queda.
 
-## Se gostou e quer conferir como funciona, acesse o [Dashboard RH](https://bit.ly/dashboard_rh_jrsolucoes) e navegue por todas as telas, clicando nos gráficos para filtrar o painel e conferir toda a sua interatividade.
+## > Se gostou e quer conferir como funciona, acesse o [Dashboard RH](https://bit.ly/dashboard_rh_jrsolucoes) e navegue por todas as telas, clicando nos gráficos para filtrar o painel e conferir toda a sua interatividade.
