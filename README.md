@@ -65,6 +65,10 @@ serem aplicados. O indicativo de que se tem essa janela flutuante, é o ícone d
 
 * *Clique na imagem para ver em tela cheia*
 <br />
+
+Para navegar para a próxima página, basta clicar no ícone no canto superior esquerdo da tela, que passaremos para a análise financeira da equipe.
+<br />
+<br />
 <br />
 
  - #### Na segunda página, são apresentados os dados financeiros relacionados as equipes:
@@ -90,8 +94,9 @@ serem aplicados. O indicativo de que se tem essa janela flutuante, é o ícone d
 <br />
 
 Da mesma forma que na tela da análise de funcionários, aqui na segunda, também temos o mesmo filtro que pode ser acessado pelo ícone do 
-filtro na parte superior esquerda do lado do ícone da navegação e também nos gráficos da média salarial por nível e contratações por mês, 
-temos o ícone do megafone, que também apresenta uma janela flutuante com o quantitativo dos funcionários por área.
+filtro na parte superior esquerda do lado do ícone da navegação, que nos leva de volta para a tela da análise de funcionários e também nos 
+gráficos da média salarial por nível e contratações por mês, temos o ícone do megafone, que também apresenta uma janela flutuante com o 
+quantitativo dos funcionários por área.
 <br />
 <br />
 
@@ -114,5 +119,4 @@ Em relação à análise financeira dos funcionários:
 3. Os diretores, são o que tem a maior média salarial;
 4. Em geral, no 1º trimestre, tem um maior volume de contratações e no 4º trimestre, esse volume tem uma pequena queda.
 
-## Se gostou e que conferir como funciona, acesse o [Dashboard RH](https://bit.ly/dashboard_rh_jrsolucoes) e navegue por todas as telas, clicando nos gráficos 
-para filtrar o painel e conferir toda a sua interatividade.
+## Se gostou e que conferir como funciona, acesse o [Dashboard RH](https://bit.ly/dashboard_rh_jrsolucoes) e navegue por todas as telas, clicando nos gráficos para filtrar o painel e conferir toda a sua interatividade.
